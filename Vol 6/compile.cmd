@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Vol. 6.cdb" pics --artsize fill

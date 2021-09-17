@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Booster 3.cdb" pics --artsize fill
