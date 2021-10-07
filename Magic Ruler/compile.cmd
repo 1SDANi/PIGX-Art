@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Magic Ruler.cdb" pics --artsize fill
