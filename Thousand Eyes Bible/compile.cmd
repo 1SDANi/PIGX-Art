@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Thousand Eyes Bible.cdb" pics --artsize fill
