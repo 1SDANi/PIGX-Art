@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Spell of Mask.cdb" pics --artsize fill
