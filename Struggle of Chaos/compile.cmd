@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Struggle of Chaos.cdb" pics --artsize fill
