@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Advent of Union.cdb" pics --artsize fill
