@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Champion of Black Magic.cdb" pics --artsize fill
