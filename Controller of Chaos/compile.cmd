@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Controller of Chaos.cdb" pics --artsize fill
