@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Pharaoh's Inheritance.cdb" pics --artsize fill
