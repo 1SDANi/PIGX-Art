@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Rise of Destiny.cdb" pics --artsize fill
