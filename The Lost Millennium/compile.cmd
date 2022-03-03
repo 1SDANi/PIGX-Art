@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/The Lost Millennium.cdb" pics --artsize fill
