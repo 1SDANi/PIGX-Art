@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Cybernetic Revolution.cdb" pics --artsize fill
