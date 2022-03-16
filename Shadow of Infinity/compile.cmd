@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Shadow of Infinity.cdb" pics --artsize fill
