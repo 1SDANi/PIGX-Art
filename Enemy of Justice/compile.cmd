@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Enemy of Justice.cdb" pics --artsize fill
