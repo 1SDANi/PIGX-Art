@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Cyberdark Impact.cdb" pics --artsize fill
