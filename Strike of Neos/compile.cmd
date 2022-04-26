@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Strike of Neos.cdb" pics --artsize fill
