@@ -1,0 +1,1 @@
+ygopic proxy artwork "expansions/Tactical Evolution.cdb" pics --artsize fill
