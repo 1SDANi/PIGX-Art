@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Mythological Age.cdb" pics --artsize fill

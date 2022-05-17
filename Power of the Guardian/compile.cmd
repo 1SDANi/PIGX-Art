@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Power of the Guardians.cdb" pics --artsize fill

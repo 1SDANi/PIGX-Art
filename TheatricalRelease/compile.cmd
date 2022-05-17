@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Theatrical Release.cdb" pics --artsize fill

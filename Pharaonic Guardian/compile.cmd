@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Pharaonic Guardian.cdb" pics --artsize fill

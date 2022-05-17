@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Power of the Duelist.cdb" pics --artsize fill

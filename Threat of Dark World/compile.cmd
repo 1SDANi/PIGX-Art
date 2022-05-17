@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Threat of Dark World.cdb" pics --artsize fill

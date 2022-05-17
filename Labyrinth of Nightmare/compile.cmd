@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Labyrinth of Nightmare.cdb" pics --artsize fill

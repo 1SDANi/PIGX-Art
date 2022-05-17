@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Pharaoh's Servant.cdb" pics --artsize fill

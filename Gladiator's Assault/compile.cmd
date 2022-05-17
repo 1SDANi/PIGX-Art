@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Gladiator's Assault.cdb" pics --artsize fill

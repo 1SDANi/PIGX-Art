@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Force of the Breaker.cdb" pics --artsize fill

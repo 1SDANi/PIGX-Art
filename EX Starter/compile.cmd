@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/EX Starter.cdb" pics --artsize fill

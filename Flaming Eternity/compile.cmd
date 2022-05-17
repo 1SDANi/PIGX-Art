@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Flaming Eternity.cdb" pics --artsize fill

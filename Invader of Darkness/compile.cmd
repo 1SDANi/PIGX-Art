@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Invader of Darkness.cdb" pics --artsize fill

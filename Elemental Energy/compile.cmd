@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/Elemental Energy.cdb" pics --artsize fill

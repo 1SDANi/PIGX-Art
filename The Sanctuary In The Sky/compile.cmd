@@ -1,1 +1,0 @@
-ygopic proxy artwork "expansions/The Sanctuary In The Sky.cdb" pics --artsize fill
